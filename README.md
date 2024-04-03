@@ -2,7 +2,7 @@ Title: Pokemon-Project
 
 Description:
 
-This is a Pokémon card application built with Next.js. It demonstrates my skills in using Next.js for building a user interface, fetching data from pokeAPI, and applying basic styling.
+This is a Pokemon card application built with Next.js. It demonstrates my skills in using Next.js for building a user interface, fetching data from pokeAPI, and applying basic styling.
 
 Features:
 
